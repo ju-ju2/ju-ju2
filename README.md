@@ -1,6 +1,6 @@
 # Hello! I'm Juyeon Han
 
-**Portfolio** : [Juyeon's Portfolio](https://steep-andesaurus-3fe.notion.site/About-JUYEON-f33a729ed8bf4e21b265e4b8ac791d85?pvs=4)  
+**Portfolio** : [Juyeon's Portfolio]([https://steep-andesaurus-3fe.notion.site/About-JUYEON-f33a729ed8bf4e21b265e4b8ac791d85?pvs=4](https://hanjuss.notion.site/About-JUYEON-f33a729ed8bf4e21b265e4b8ac791d85?pvs=4))  
 **Blog** : <https://ju-ju2.github.io>  
 **Email** : hjy2859@naver.com  
 

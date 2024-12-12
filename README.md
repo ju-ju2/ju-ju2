@@ -8,7 +8,7 @@
 
 ## 💻️ Stack
 
-> html, Javascript, Typescript, React, Next.js  
+> html, Javascript, Typescript, React, Next.js, Lit, SCSS  
 > Firebase  
 > Figma, AdobeXD, Illustrator, Photoshop, Blender
 
@@ -17,11 +17,14 @@
 ## 👩🏻‍💻 Work
 ### 에이치나인_프론트엔드 개발자
 
-> #### **[HENCE] admin 개발**
-> **2023-08 ~ 2023-11**
+> #### **[HNINE] 디자인 시스템 라이브러리 구축**
+> **2024-08 ~ 진행중**
 
 > #### **[SPACE] Samsumg Space 페이지 통합 개발**
-> **2023-12 ~ 진행중**
+> **2023-12 ~ 2024-08**
+
+> #### **[HENCE] admin 개발**
+> **2023-08 ~ 2023-11**
 
 <br />
 
